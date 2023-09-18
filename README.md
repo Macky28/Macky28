@@ -1,3 +1,6 @@
+![Blue Yellow Futuristic Virtual Technology Blog Banner](https://github.com/Macky28/Macky28/assets/142654116/db74ba21-7d5d-4499-9604-a32f2c8dac89)
+
+
 <h1 align="center">Hi 👋, I'm Mackenzie Villeza</h1>
 <h3 align="center">I am deeply passionate about pursuing a career in information technology, driven by my insatiable curiosity and unwavering fascination with the ever-evolving world of technology. From an early age, I found myself captivated by the limitless possibilities that IT offers, from coding and software development to network security and data analysis. With a relentless commitment to learning and adapting to emerging trends, I thrive on the challenges that this dynamic field presents.</h3>
 
